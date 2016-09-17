@@ -1,2 +1,2 @@
 # SDC Tutorials
-## a collection of tutorials by Spencer Carlson
+## A Collection of Tutorials by Spencer Carlson
